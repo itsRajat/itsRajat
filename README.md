@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" height="160px" width="auto">
+<img align="right" src="https://giphy.com/static/img/zoomies-small.gif" height="160px" width="auto">
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/itsRajat/itsRajat/main/wave.gif" width="30px"><strong> Hey! I'm <a href="https://rajatk.tech">Rajat Kaushik</a></strong>
 </h1>
