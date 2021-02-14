@@ -36,18 +36,17 @@ const itsRajat = {
   currentlyLearning: ["Figma", "GraphQL", "Spring Boot", "Guitar"],
   enjoys: ['Reading Books on Neuropsychology, Spirituality & Entrepreneurship', 'Listening to Podcasts & Music', 
            'Working Out', 'Cooking & Baking', 'Art'],
-  portfolioLink: 'https://www.rajatk.tech/'
+  portfolioLink: 'https://www.rajatk.tech/',
   username: 'itsRajat'
 }
 
-const res = (function fullTimePositionAvailable(hire) {
+(function fullTimePositionAvailable(hire) {
 if (lookingToHire && hire === 'itsRajat') {
     status = 200;
     return 'Success';
-  } else throw new Error('You should hire @itsRajat')
+  } 
+  else throw new Error('You should hire @itsRajat')
 })(itsRajat.username);
-
-console.log(res); //Success
 
 ```
 
@@ -58,11 +57,14 @@ I've had a keen interest in building things since I was a kid; from breaking & m
 Some of the technologies I've been learning/using recently -
 Java | JavaScript (ES6+) | Photoshop | Flutter/Dart | React | HTML & CSS | WordPress | XenForo
 
-When I'm not doing all of that, I can be found reading books (Neuroscience/Self-Improvement/Psychology stuff mostly), listening to podcasts, working out, playing COD or just experimenting with a new recipe in my kitchen (or cleaning the mess afterwards before my mom finds out :S).
+When I'm not doing all of that, I can be found reading books, listening to music & podcasts, working out, playing COD or just experimenting with a new recipe in my kitchen (or cleaning the mess afterwards before my mom finds out :S).
 
-You can view my portfolio, resume & more at https://www.rajatk.tech/
+Fun fact: 
+// Which came first: the chicken or the egg?
 
-Have a good day =)
+console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+
+Result -> ["🐔", "🐣", "🐥", "🥚"];
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I enjoy meeting new people</b> so if you have any questions or just wanna say hi, feel free to <a target="_blank" href="https://github.com/itsrajat/itsrajat/issues/new/choose"><strong> create an issue</strong></a> & I'll be happy to exchange our views on life, death, dinosaurs & everything in between :3</b> </em>
 
