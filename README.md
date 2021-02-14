@@ -34,7 +34,8 @@ const itsRajat = {
   values: ["Good UI/UX", "Performance", "Product Focus", "Branding"],
   toolsAndFrameworks: ["React", "Flutter", "Photoshop", "XenForo", "Sass", "Wordpress", "Design", "Firebase"],
   currentlyLearning: ["Figma", "GraphQL", "Spring Boot", "Guitar"],
-  enjoys: ['Reading Books on Neuropsychology, Spirituality & Entrepreneurship', 'Listening to Podcasts & Music', 'Working Out', 'Cooking & Baking', 'Art'],
+  enjoys: ['Reading Books on Neuropsychology, Spirituality & Entrepreneurship', 'Listening to Podcasts & Music', 
+           'Working Out', 'Cooking & Baking', 'Art'],
   portfolioLink: 'https://www.rajatk.tech/'
   username: 'itsRajat'
 }
@@ -50,7 +51,18 @@ console.log(res); //Success
 
 ```
 
-![itsRajat's github stats](https://github-readme-stats.vercel.app/api?username=itsrajat&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)
+I am Rajat Kaushik, a 22-year old Software Developer & Graphic Designer from India.
+
+I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP) to developing large-scale applications, I've always had passion for translating complex problems into engaging experiences. I'm in the final year of my CompSci (CSE) Degree at Chandigarh University and currently looking for a full-time opportunity at a product-based company to grow, learn & contribute at.
+
+Some of the technologies I've been learning/using recently -
+Java | JavaScript (ES6+) | Photoshop | Flutter/Dart | React | HTML & CSS | WordPress | XenForo
+
+When I'm not doing all of that, I can be found reading books (Neuroscience/Self-Improvement/Psychology stuff mostly), listening to podcasts, working out, playing COD or just experimenting with a new recipe in my kitchen (or cleaning the mess afterwards before my mom finds out :S).
+
+You can view my portfolio, resume & more at https://www.rajatk.tech/
+
+Have a good day =)
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I enjoy meeting new people</b> so if you have any questions or just wanna say hi, feel free to <a target="_blank" href="https://github.com/itsrajat/itsrajat/issues/new/choose"><strong> create an issue</strong></a> & I'll be happy to exchange our views on life, death, dinosaurs & everything in between :3</b> </em>
 
