@@ -52,19 +52,17 @@ if (lookingToHire && hire === 'itsRajat') {
 
 I am Rajat Kaushik, a 22-year old Software Developer & Graphic Designer from India.
 
-I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP) to developing large-scale applications, I've always had passion for translating complex problems into engaging experiences. I'm in the final year of my CompSci (CSE) Degree at Chandigarh University and currently looking for a full-time opportunity at a product-based company to grow, learn & contribute at.
-
-Some of the technologies I've been learning/using recently -
-Java | JavaScript (ES6+) | Photoshop | Flutter/Dart | React | HTML & CSS | WordPress | XenForo
+I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP) to developing large-scale applications, I've always had passion for translating complex problems into engaging experiences. I'm in the final year of my CompSci (CSE) Degree at Chandigarh University and currently looking for a full-time opportunity at a product-based company to grow, learn & contribute to.
 
 When I'm not doing all of that, I can be found reading books, listening to music & podcasts, working out, playing COD or just experimenting with a new recipe in my kitchen (or cleaning the mess afterwards before my mom finds out :S).
 
-Fun fact: 
+Fun fact:
+```javascript
 // Which came first: the chicken or the egg?
 
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-
-Result -> ["🐔", "🐣", "🐥", "🥚"];
+```
+Output: ["🐔", "🐣", "🐥", "🥚"];
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I enjoy meeting new people</b> so if you have any questions or just wanna say hi, feel free to <a target="_blank" href="https://github.com/itsrajat/itsrajat/issues/new/choose"><strong> create an issue</strong></a> & I'll be happy to exchange our views on life, death, dinosaurs & everything in between :3</b> </em>
 
