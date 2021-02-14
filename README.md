@@ -32,10 +32,10 @@ const itsRajat = {
   degree: "Computer Science Engineering",
   codesIn: ["Javascript", "Java", "HTML", "CSS", "Dart"],
   values: ["Good UI/UX", "Performance", "Product Focus", "Branding"],
-  toolsAndFrameworks: ["React", "Flutter", "Photoshop", "XenForo", "Sass", "Wordpress", "Design", "Firebase"],
+  toolsAndFrameworks: ["React", "Flutter", "Photoshop", "XenForo", "Sass", "Wordpress"],
   currentlyLearning: ["Figma", "GraphQL", "Spring Boot", "Guitar"],
-  enjoys: ['Reading Books on Neuropsychology, Spirituality & Entrepreneurship', 'Listening to Podcasts & Music', 
-           'Working Out', 'Cooking & Baking', 'Art'],
+  enjoys: ['Reading Books on Neuropsychology, Spirituality & Entrepreneurship', 
+           'Listening to Podcasts & Music', 'Working Out', 'Cooking & Baking', 'Art'],
   portfolioLink: 'https://www.rajatk.tech/',
   username: 'itsRajat'
 }
