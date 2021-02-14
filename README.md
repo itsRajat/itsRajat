@@ -21,7 +21,7 @@
 
   <details>
     <summary>
-    <strong>MORE ABOUT ME (click to expand)</strong>
+    <strong>Click & expand to learn more about me! :)</strong>
     </summary>
 
 ```javascript
