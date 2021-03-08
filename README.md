@@ -33,7 +33,7 @@ const itsRajat = {
   codesIn: ["Javascript", "Java", "HTML", "CSS", "Dart"],
   values: ["Good UI/UX", "Performance", "Product Focus", "Branding"],
   toolsAndFrameworks: ["React", "Flutter", "Photoshop", "XenForo", "Sass", "Wordpress"],
-  currentlyLearning: ["Figma", "GraphQL", "Spring Boot", "Guitar"],
+  currentlyLearning: ["Figma", "Testing", "TypeScript", "GraphQL", "Guitar"],
   enjoys: ['Reading Books on Neuropsychology, Spirituality & Entrepreneurship', 
            'Listening to Podcasts & Music', 'Working Out', 'Cooking & Baking', 'Art'],
   portfolioLink: 'https://www.rajatk.tech/',
