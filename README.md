@@ -21,6 +21,7 @@
 
   <details>
     <summary>
+      <strong> This is an old personal Github profile and you won't see much activity here. My current work profile is github.com/rajatcosmic and previously, github.com/rajatgraphy. </strong>
     <strong>Click & expand to learn more about me! :)</strong>
     </summary>
 
@@ -50,11 +51,9 @@ if (lookingToHire && hire === 'itsRajat') {
 
 ```
 
-I am Rajat Kaushik, a 22-year old Software Developer & Graphic Designer from India.
+I am Rajat Kaushik, a 25-year old Frontend Engineer from India.
 
-I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP) to developing large-scale applications, I've always had passion for translating complex problems into engaging experiences. I'm in the final year of my CompSci (CSE) Degree at Chandigarh University and currently looking for a full-time opportunity at a product-based company to grow, learn & contribute to.
-
-When I'm not doing all of that, I can be found reading books, listening to music & podcasts, working out, playing COD or just experimenting with a new recipe in my kitchen (or cleaning the mess afterwards before my mom finds out :S).
+I've had a keen interest in building things since I was a kid; from breaking & modifying RC cars, running my own multiplayer game servers (mostly in SA:MP) to developing large-scale applications, I've always had passion for translating complex problems into engaging experiences. I'm currently the Frontend Lead at CosmicJS and have previously worked at Unacademy (Graphy) where I lead the Frontend of some projects.
 
 Fun fact:
 ```javascript
