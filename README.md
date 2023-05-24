@@ -21,7 +21,7 @@
 
   <details>
     <summary>
-      <strong> This is an old personal Github profile and you won't see much activity here. My current work profile is github.com/rajatcosmic and previously, github.com/rajatgraphy. </strong>
+      <strong> This is an old personal Github profile and you won't see much activity here. My current work profile is github.com/rajatcosmic and previously, github.com/rajatgraphy. </strong> <br/><br/>
     <strong>Click & expand to learn more about me! :)</strong>
     </summary>
 
